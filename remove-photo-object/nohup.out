@@ -1,0 +1,362 @@
+[W823 00:38:30.581964899 init.cpp:767] Warning: nvfuser is no longer supported in torch script, use _jit_set_nvfuser_enabled is deprecated and a no-op (function operator())
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18650.949954986572ms
+Processed and saved: ../Processed_Images/Hand_brake_valve_replaces_Scania_1882112893_0.jpg
+Origin image shape: (1239, 1600, 3)
+Resized image shape: (1239, 1600, 3)
+process time: 19091.45188331604ms
+Processed and saved: ../Processed_Images/Temperature_sensor_replaces_Bharatbenz126_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18474.344730377197ms
+Processed and saved: ../Processed_Images/Bracket,_front_fender,_front,_left_replaces_Iveco_58_0151_2482865_0.jpg
+Origin image shape: (1200, 1200, 3)
+Resized image shape: (1200, 1200, 3)
+process time: 13595.404386520386ms
+Processed and saved: ../Processed_Images/Push-in-connector_replaces_DAF2316_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 17767.520666122437ms
+Processed and saved: ../Processed_Images/Fan_with_clutch_replaces_Volvo_217497831308_0.jpg
+Origin image shape: (726, 1600, 3)
+Resized image shape: (726, 1600, 3)
+process time: 11305.717706680298ms
+Processed and saved: ../Processed_Images/Fender_widener,_front,_right_replaces_Volvo_20529684598_0.jpg
+Mask file not found: ../masks/End_pipe_replaces_MAN_81.png
+Origin image shape: (1344, 1600, 3)
+Resized image shape: (1344, 1600, 3)
+process time: 20188.05170059204ms
+Processed and saved: ../Processed_Images/Fan_replaces_Iveco_5_0415_43491948_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18477.80680656433ms
+Processed and saved: ../Processed_Images/Cylinder_head_gasket_kit_replaces_Scania_2295057182_0.jpg
+Mask file not found: ../masks/Reaction_rod_replaces_MAN_81.png
+Origin image shape: (1504, 1378, 3)
+Resized image shape: (1504, 1378, 3)
+process time: 21837.92281150818ms
+Processed and saved: ../Processed_Images/Cylinder_head_screw_replaces_DAF_37595198_0.jpg
+Origin image shape: (744, 1600, 3)
+Resized image shape: (744, 1600, 3)
+process time: 11458.231687545776ms
+Processed and saved: ../Processed_Images/Bumper_cover,_auxiliary_lamp,_left_replaces_DAF_16837231082_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18014.981746673584ms
+Processed and saved: ../Processed_Images/Repair_kit,_valve_block_replaces_Scania_2021085_S1708_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18242.78426170349ms
+Processed and saved: ../Processed_Images/Exhaust_brake,_complete_replaces_DAF_17415891560_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18147.6948261261ms
+Processed and saved: ../Processed_Images/Tension_roller,_with_bracket_replaces_Citroen1240_0.jpg
+Origin image shape: (933, 958, 3)
+Resized image shape: (933, 958, 3)
+process time: 8589.60747718811ms
+Processed and saved: ../Processed_Images/O-ring,_black_replaces_Mercedes-Benz_009_997_884816_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18006.160259246826ms
+Processed and saved: ../Processed_Images/Air_deflector,_outer,_left_replaces_Mercedes-Benz_960_750_2025390_0.jpg
+Origin image shape: (1200, 1400, 3)
+Resized image shape: (1200, 1400, 3)
+process time: 16351.687669754028ms
+Processed and saved: ../Processed_Images/Injection_sleeve_replaces_Iveco_9947_69292397_0.jpg
+Origin image shape: (893, 1600, 3)
+Resized image shape: (893, 1600, 3)
+process time: 13515.002965927124ms
+Processed and saved: ../Processed_Images/Gasket,_exhaust_manifold_replaces_Scania_20860292525_0.jpg
+Origin image shape: (1600, 1541, 3)
+Resized image shape: (1600, 1541, 3)
+process time: 25037.53924369812ms
+Processed and saved: ../Processed_Images/Relay_replaces_DAF966_0.jpg
+Origin image shape: (982, 1600, 3)
+Resized image shape: (982, 1600, 3)
+process time: 15684.185981750488ms
+Processed and saved: ../Processed_Images/Piston,_complete_with_rings_replaces_DAF_16265881190_0.jpg
+Origin image shape: (1031, 1600, 3)
+Resized image shape: (1031, 1600, 3)
+process time: 16410.012245178223ms
+Processed and saved: ../Processed_Images/General_overhaul_kit_replaces_Scania_5515191267_0.jpg
+Origin image shape: (1104, 1600, 3)
+Resized image shape: (1104, 1600, 3)
+process time: 16827.688455581665ms
+Processed and saved: ../Processed_Images/Lamp_socket_replaces_Mercedes-Benz_000_540_0966557_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 17884.31692123413ms
+Processed and saved: ../Processed_Images/Steering_column_switch,_windscreen_wiper_replaces_General_Motors1255_0.jpg
+Origin image shape: (1218, 1600, 3)
+Resized image shape: (1218, 1600, 3)
+process time: 18586.909532546997ms
+Processed and saved: ../Processed_Images/Pressure_pipe_neck_replaces_MAN1227_0.jpg
+Origin image shape: (486, 1600, 3)
+Resized image shape: (486, 1600, 3)
+process time: 7590.624094009399ms
+Processed and saved: ../Processed_Images/Camshaft_replaces_Mercedes-Benz_906_050_1401695_0.jpg
+Mask file not found: ../masks/Drain_plug,_bumper_replaces_MAN_81.png
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 17880.245685577393ms
+Processed and saved: ../Processed_Images/Repair_kit,_EBS_valve_replaces_Volvo_20542734_S718_0.jpg
+Origin image shape: (834, 1600, 3)
+Resized image shape: (834, 1600, 3)
+process time: 12815.969228744507ms
+Processed and saved: ../Processed_Images/License_plate_lamp_replaces_Citroen391_0.jpg
+Origin image shape: (323, 1600, 3)
+Resized image shape: (323, 1600, 3)
+process time: 5485.000371932983ms
+Processed and saved: ../Processed_Images/Piston_ring_kit_replaces_Volvo_2760372108_0.jpg
+Origin image shape: (1463, 1600, 3)
+Resized image shape: (1463, 1600, 3)
+process time: 22880.66554069519ms
+Processed and saved: ../Processed_Images/Tapered_roller_bearing_replaces_Scania_1342706196_0.jpg
+Mask file not found: ../masks/Shock_absorber_replaces_MAN_85.png
+Origin image shape: (435, 1600, 3)
+Resized image shape: (435, 1600, 3)
+process time: 6561.763048171997ms
+Processed and saved: ../Processed_Images/Front_grid_replaces_Scania_14591411469_0.jpg
+Origin image shape: (1105, 1600, 3)
+Resized image shape: (1105, 1600, 3)
+process time: 17230.268239974976ms
+Processed and saved: ../Processed_Images/Spacer_ring_replaces_Volvo_15763081842_0.jpg
+Origin image shape: (1200, 1422, 3)
+Resized image shape: (1200, 1422, 3)
+process time: 16344.229459762573ms
+Processed and saved: ../Processed_Images/Turn_signal_lamp,_left_replaces_Mercedes-Benz_967_820_1321104_0.jpg
+Mask file not found: ../masks/Piston,_complete_with_rings_replaces_MAN_51.png
+Origin image shape: (1600, 1475, 3)
+Resized image shape: (1600, 1475, 3)
+process time: 24339.338064193726ms
+Processed and saved: ../Processed_Images/Rubber_bushing,_stabilizer_replaces_Ford_18926002021_0.jpg
+Origin image shape: (467, 1600, 3)
+Resized image shape: (467, 1600, 3)
+process time: 7573.244333267212ms
+Processed and saved: ../Processed_Images/Spring_replaces_Mercedes-Benz_303_993_04101034_0.jpg
+Mask file not found: ../masks/Fan_clutch_replaces_MAN_51.png
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18460.965633392334ms
+Processed and saved: ../Processed_Images/Circlip_replaces_MAN651_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18095.283269882202ms
+Processed and saved: ../Processed_Images/Bumper_replaces_Iveco_58_0290_85711529_0.jpg
+Origin image shape: (1067, 1600, 3)
+Resized image shape: (1067, 1600, 3)
+process time: 17053.295135498047ms
+Processed and saved: ../Processed_Images/Throttle_cable,_hand_throttle_control_replaces_Mercedes-Benz_336_300_0026134_0.jpg
+Origin image shape: (1600, 788, 3)
+Resized image shape: (1600, 788, 3)
+process time: 12606.525659561157ms
+Processed and saved: ../Processed_Images/Air_filter,_inner_replaces_Scania_1869990303_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 19824.094533920288ms
+Processed and saved: ../Processed_Images/Double_hollow_screw_replaces_Mercedes-Benz_915047_0101002409_0.jpg
+Origin image shape: (434, 518, 3)
+Resized image shape: (434, 518, 3)
+process time: 2464.444160461426ms
+Processed and saved: ../Processed_Images/O-ring_replaces_Mercedes-Benz_021_997_774841_0.jpg
+Origin image shape: (700, 1300, 3)
+Resized image shape: (700, 1300, 3)
+process time: 10228.477239608765ms
+Processed and saved: ../Processed_Images/Headlamp_glass,_left_replaces_Scania_14465817_0.jpg
+Mask file not found: ../masks/Leaf_spring_replaces_MAN_81.png
+Origin image shape: (1023, 1600, 3)
+Resized image shape: (1023, 1600, 3)
+process time: 16591.960430145264ms
+Processed and saved: ../Processed_Images/Fog_lamp,_left,_with_bulb_replaces_Mercedes-Benz_906_820_38611763_0.jpg
+Origin image shape: (1600, 1194, 3)
+Resized image shape: (1600, 1194, 3)
+process time: 19765.24591445923ms
+Processed and saved: ../Processed_Images/Air_spring,_without_piston_replaces_Iveco_4253_1994937_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 20709.05900001526ms
+Processed and saved: ../Processed_Images/Radiator_hose_replaces_Scania_2233152228_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18914.08944129944ms
+Processed and saved: ../Processed_Images/Thermostat_replaces_Peugeot_1336_F9751_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18471.651315689087ms
+Processed and saved: ../Processed_Images/Charge_air_hose_replaces_Iveco_58_0130_35882746_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18580.19232749939ms
+Processed and saved: ../Processed_Images/Wear_indicator_kit_replaces_DAF622_0.jpg
+Origin image shape: (702, 1600, 3)
+Resized image shape: (702, 1600, 3)
+process time: 10985.017538070679ms
+Processed and saved: ../Processed_Images/Water_pump,_with_metal_gasket_replaces_Mercedes-Benz_457_200_29011908_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18428.836584091187ms
+Processed and saved: ../Processed_Images/Mirror_glass,_wide_view_mirror,_left_replaces_Iveco_5_0008_6755586_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18218.286514282227ms
+Processed and saved: ../Processed_Images/Spring_retainer,_constant_throttle_replaces_Mercedes-Benz_442_016_0026341_0.jpg
+Origin image shape: (857, 1600, 3)
+Resized image shape: (857, 1600, 3)
+process time: 14425.448179244995ms
+Processed and saved: ../Processed_Images/Joint_cross_replaces_Iveco_4254_6333877_0.jpg
+Mask file not found: ../masks/Repair_kit,_wheel_hub_replaces_SAF_3.png
+Origin image shape: (1066, 1600, 3)
+Resized image shape: (1066, 1600, 3)
+process time: 17436.148643493652ms
+Processed and saved: ../Processed_Images/Servo_pump_replaces_Volvo_23569649672_0.jpg
+Origin image shape: (354, 1600, 3)
+Resized image shape: (354, 1600, 3)
+process time: 5594.885587692261ms
+Processed and saved: ../Processed_Images/Drag_link_replaces_Renault1357_0.jpg
+Origin image shape: (427, 1600, 3)
+Resized image shape: (427, 1600, 3)
+process time: 6548.819541931152ms
+Processed and saved: ../Processed_Images/Drag_link_replaces_Renault_74_85_114_9322316_0.jpg
+Origin image shape: (1242, 1600, 3)
+Resized image shape: (1242, 1600, 3)
+process time: 19043.72000694275ms
+Processed and saved: ../Processed_Images/Battery_cover,_without_rubber___metal_parts_replaces_Renault_50_10_505_041753_0.jpg
+Origin image shape: (1322, 1600, 3)
+Resized image shape: (1322, 1600, 3)
+process time: 21520.495176315308ms
+Processed and saved: ../Processed_Images/Tapered_roller_bearing_replaces_Scania_1121538819_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 18439.625024795532ms
+Processed and saved: ../Processed_Images/Console,_right_replaces_Volvo_84171442861_0.jpg
+Origin image shape: (1386, 1600, 3)
+Resized image shape: (1386, 1600, 3)
+process time: 23490.21601676941ms
+Processed and saved: ../Processed_Images/Brake_shoe_roller_replaces_Volvo_34171787_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 20600.666046142578ms
+Processed and saved: ../Processed_Images/Cap_replaces_Renault_20972260982_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 20872.4102973938ms
+Processed and saved: ../Processed_Images/Step_well_case,_left_replaces_Iveco_5_0436_8379860_0.jpg
+Origin image shape: (1060, 1564, 3)
+Resized image shape: (1060, 1564, 3)
+process time: 18831.632137298584ms
+Processed and saved: ../Processed_Images/Lamp_bracket,_left_replaces_DAF_186294556_0.jpg
+Mask file not found: ../masks/Turn_signal_lamp_replaces_MAN_81.png
+Origin image shape: (1200, 1378, 3)
+Resized image shape: (1200, 1378, 3)
+process time: 19796.921730041504ms
+Processed and saved: ../Processed_Images/Radiator_hose_replaces_Mercedes-Benz_940_501_1682453_0.jpg
+Origin image shape: (1047, 1600, 3)
+Resized image shape: (1047, 1600, 3)
+process time: 19914.27183151245ms
+Processed and saved: ../Processed_Images/Windshield,_tinted_green,_single_package_replaces_General_Motors899_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 21762.354135513306ms
+Processed and saved: ../Processed_Images/Rubber_bushing,_cabin_stabilizer_replaces_DAF_1314545478_0.jpg
+Origin image shape: (1260, 1600, 3)
+Resized image shape: (1260, 1600, 3)
+process time: 24351.924657821655ms
+Processed and saved: ../Processed_Images/Fan_with_clutch_replaces_Mercedes-Benz_000_200_73231943_0.jpg
+Origin image shape: (1066, 1600, 3)
+Resized image shape: (1066, 1600, 3)
+process time: 20371.79470062256ms
+Processed and saved: ../Processed_Images/Wear_indicator_replaces_Iveco_0190_7956625_0.jpg
+Origin image shape: (1066, 1600, 3)
+Resized image shape: (1066, 1600, 3)
+process time: 19693.214654922485ms
+Processed and saved: ../Processed_Images/Throttle_kit,_stainless_steel_replaces_Mercedes-Benz_541_140_01631238_0.jpg
+Origin image shape: (395, 1063, 3)
+Resized image shape: (395, 1063, 3)
+process time: 5082.721471786499ms
+Processed and saved: ../Processed_Images/End_pipe_replaces_Iveco_4120_1532797_0.jpg
+Origin image shape: (1458, 1600, 3)
+Resized image shape: (1458, 1600, 3)
+process time: 28108.118534088135ms
+Processed and saved: ../Processed_Images/Clutch_disc_replaces_Saab240_0.jpg
+Origin image shape: (1600, 1500, 3)
+Resized image shape: (1600, 1500, 3)
+process time: 28570.011138916016ms
+Processed and saved: ../Processed_Images/Brake_disc_replaces_Iveco_0190_7765373_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 21508.499145507812ms
+Processed and saved: ../Processed_Images/Hinge,_lower_right_replaces_Mercedes-Benz2182_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 21502.504587173462ms
+Processed and saved: ../Processed_Images/Front_grid,_left_replaces_Scania_14660311462_0.jpg
+Origin image shape: (1335, 1600, 3)
+Resized image shape: (1335, 1600, 3)
+process time: 25453.726053237915ms
+Processed and saved: ../Processed_Images/Coupling_body_replaces_DAF664_0.jpg
+Origin image shape: (993, 917, 3)
+Resized image shape: (993, 917, 3)
+process time: 10839.744567871094ms
+Processed and saved: ../Processed_Images/Radiator_hose_replaces_Mercedes-Benz_620_506_20351145_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 21526.35359764099ms
+Processed and saved: ../Processed_Images/Shifting_cylinder_replaces_Mercedes-Benz_002_260_2563820_0.jpg
+Mask file not found: ../masks/Front_exhaust_pipe_replaces_MAN_81.png
+Origin image shape: (487, 1600, 3)
+Resized image shape: (487, 1600, 3)
+process time: 8546.74482345581ms
+Processed and saved: ../Processed_Images/Shifting_cylinder,_with_bracket_replaces_Mercedes-Benz_001_260_3463799_0.jpg
+Origin image shape: (1600, 863, 3)
+Resized image shape: (1600, 863, 3)
+process time: 16225.966930389404ms
+Processed and saved: ../Processed_Images/Main_mirror,_left_replaces_Iveco_9847_29761550_0.jpg
+Origin image shape: (1600, 1006, 3)
+Resized image shape: (1600, 1006, 3)
+process time: 18341.182947158813ms
+Processed and saved: ../Processed_Images/Air_filter_replaces_Mercedes-Benz_628_528_0606635_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 21817.863702774048ms
+Processed and saved: ../Processed_Images/Oil_filter_replaces_Citroen323_0.jpg
+Origin image shape: (1200, 1600, 3)
+Resized image shape: (1200, 1600, 3)
+process time: 22278.902053833008ms
+Processed and saved: ../Processed_Images/Protection_cap,_brake_carrier_replaces_Iveco_4253_7841107_0.jpg
+Origin image shape: (1332, 1600, 3)
+Resized image shape: (1332, 1600, 3)
+process time: 25036.446571350098ms
+Processed and saved: ../Processed_Images/Oil_seal_replaces_Mercedes-Benz_025_997_55472747_0.jpg
+Origin image shape: (450, 1085, 3)
+Resized image shape: (450, 1085, 3)
+process time: 5965.89994430542ms
+Processed and saved: ../Processed_Images/Axle_replaces_Scania_202632453_0.jpg
+Origin image shape: (1066, 1600, 3)
+Resized image shape: (1066, 1600, 3)
+process time: 21914.620637893677ms
+Processed and saved: ../Processed_Images/Shock_absorber_replaces_Mercedes-Benz_961_326_0700316_0.jpg
+Origin image shape: (958, 1600, 3)
+Resized image shape: (958, 1600, 3)
+process time: 19632.173776626587ms
+Processed and saved: ../Processed_Images/Expansion_plug_replaces_Mercedes-Benz_000_501_62151287_0.jpg
+Mask file not found: ../masks/Drag_link_replaces_MAN_81.png
+Origin image shape: (810, 1600, 3)
+Resized image shape: (810, 1600, 3)
+process time: 16049.259424209595ms
+Processed and saved: ../Processed_Images/Injection_line_kit_replaces_Scania_312220741_0.jpg
+Mask file not found: ../masks/Bumper,_plastic_replaces_MAN_81.png
+Mask file not found: ../masks/Fuel_filter_insert_replaces_MAN_51.png
+Origin image shape: (1179, 1600, 3)
+Resized image shape: (1179, 1600, 3)
+process time: 24536.747217178345ms
+Processed and saved: ../Processed_Images/Oil_cooler_replaces_Mercedes-Benz_646_188_030110_0.jpg
+Origin image shape: (1600, 1422, 3)
+Resized image shape: (1600, 1422, 3)
+process time: 29920.194149017334ms
+Processed and saved: ../Processed_Images/Radiator_replaces_Renault_50_10_315_7361017_0.jpg
+Origin image shape: (1066, 1600, 3)
+Resized image shape: (1066, 1600, 3)
+process time: 22670.877933502197ms
+Processed and saved: ../Processed_Images/Cover_moulding,_lateral,_right,_black_replaces_Fiat2446_0.jpg
